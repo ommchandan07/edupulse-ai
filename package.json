@@ -1,0 +1,8 @@
+{
+  "name":"edupulse-ai",
+  "version":"2.0.0",
+  "private":true,
+  "type":"module",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"@google/genai":"latest","adm-zip":"latest","dotenv":"latest","express":"latest","multer":"latest"}
+}
